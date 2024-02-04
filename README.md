@@ -9,9 +9,13 @@ Thisis the repository of our EVM Solidity code and is released under MIT License
 To Add EchoQS to your wallet, Do the Following:
 
 In Metamask, Switch to Polygon Mainnet (ID 137)
+
 Click Import Token
+
 Add 0x3B1f90f5033451fc63Aa2A0FF4a2fE75D59D3CEc to the Token Address.
+
 ECHO and 18 should populate the other slots.
+
 Click Next then Import.
 
 For Any inquiries, please contact the any of the following:
